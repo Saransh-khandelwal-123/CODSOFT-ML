@@ -2,6 +2,7 @@
 PROJECTS FOR CODSOFT
 
 # Titanic Survival Prediction
+![image](https://github.com/Saransh-khandelwal-123/CODSOFT-ML/assets/64893215/8f3b7cae-c0e0-4989-a6c6-c9dc3a891ddc)
 
 
 # Introduction
